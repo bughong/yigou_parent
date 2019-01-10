@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/basic_parent/basic_parent.iml" filepath="$PROJECT_DIR$/basic_parent/basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basic_parent/basic_util/basic_util.iml" filepath="$PROJECT_DIR$/basic_parent/basic_util/basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka_server_7001/eureka_server_7001.iml" filepath="$PROJECT_DIR$/eureka_server_7001/eureka_server_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plat_parent/plat_interface/plat_interface.iml" filepath="$PROJECT_DIR$/plat_parent/plat_interface/plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plat_parent/plat_parent.iml" filepath="$PROJECT_DIR$/plat_parent/plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plat_parent/plat_service_8001/plat_service_8001.iml" filepath="$PROJECT_DIR$/plat_parent/plat_service_8001/plat_service_8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yigou_parent.iml" filepath="$PROJECT_DIR$/yigou_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul_gatway_4399/zuul_gatway_4399.iml" filepath="$PROJECT_DIR$/zuul_gatway_4399/zuul_gatway_4399.iml" />
+    </modules>
+  </component>
+</project>

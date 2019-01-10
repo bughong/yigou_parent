@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="basic_util" />
+        <module name="eureka_server" />
+        <module name="eureka_server_7001" />
+        <module name="plat_interface" />
+        <module name="plat_server_8001" />
+        <module name="plat_service_8001" />
+        <module name="zuul_gatway_4399" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="basic_parent" target="1.8" />
+      <module name="basic_util" target="1.8" />
+      <module name="eureka_server" target="1.8" />
+      <module name="eureka_server_7001" target="1.8" />
+      <module name="plat_interface" target="1.8" />
+      <module name="plat_parent" target="1.8" />
+      <module name="plat_server_8001" target="1.8" />
+      <module name="plat_service_8001" target="1.8" />
+      <module name="yigou_parent" target="1.8" />
+      <module name="zuul_gatway_4399" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
